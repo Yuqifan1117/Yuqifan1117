@@ -5,6 +5,7 @@
 🧰 常用的工具:
 
 &emsp;&emsp; 
+![Python](https://img.shields.io/badge/-Python-pink?style=flat-square&logo=Python)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=style=flat-square&logo=linux&logoColor=black)
 ![Google Chrome](https://img.shields.io/badge/Chrome-4285F4?style=flat-square&logo=GoogleChrome&logoColor=white)
