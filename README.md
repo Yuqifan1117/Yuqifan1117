@@ -1,6 +1,6 @@
 ### Hi there 👋
-- 🌱 I’m currently learning **Representaion Learning & Multimodal Learning & Contrastive Learning**
-- 🤔 I’m also learning simple demo of Computer Graphics and Computer Vision
+- 🌱 I’m currently learning **Data knowledge & Multi-modal AIGC & Multimodal Learning**
+- 🤔 I’m also learning the design of Database Management System(DBMS)
 
 🧰 常用的工具:
 
