@@ -1,6 +1,6 @@
 ### Hi there 👋
-- 🌱 I’m currently learning **Data knowledge & Multi-modal AIGC & Multimodal Learning**
-- 🤔 I’m also learning the design of Database Management System(DBMS)
+- 🌱 I’m currently learning **Visual knowledge & AIGC & Multi-modal LLM & Multimodal Learning**
+- 🤔 I am also a teaching assistant for the course on Database Management Systems (DBMS)
 
 🧰 常用的工具:
 
